@@ -13,6 +13,6 @@ Email: <nghoanglong.17december@gmail.com>
 Facebook: <https://www.facebook.com/nghoanglong.17dec>
 
 ## Nguồn tham khảo
-- [Python Pandas Tutorial](https://youtu.be/ZyhVh-qRZPA) - Corey Schafer
+- [Pandas Tutorial](https://youtu.be/ZyhVh-qRZPA) - Corey Schafer
 - [Trang chủ Pandas](https://pandas.pydata.org/docs/reference/index.html)
 - [Python for Data Analysis Book](https://drive.google.com/file/d/1PKzCG9gDF2AH5dkRRszoZlXGUn_VRWwl/view?usp=sharing) - Wes McKinney
